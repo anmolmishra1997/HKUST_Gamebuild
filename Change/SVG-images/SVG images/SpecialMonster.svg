@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4720"
+   viewBox=""
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="SnowmanEmo_byRones.svg.xml.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     id="namedview35"
+     showgrid="false"
+     inkscape:zoom="11.083227"
+     inkscape:cx="10.904073"
+     inkscape:cy="91.167609"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4720" />
+  <defs
+     id="defs4722">
+    <linearGradient
+       id="linearGradient5279"
+       x1="1408.6"
+       xlink:href="#linearGradient4667"
+       gradientUnits="userSpaceOnUse"
+       y1="728.74"
+       gradientTransform="matrix(0.1344595,0,0,0.09415285,-334.96825,-37.09941)"
+       x2="1451"
+       y2="767.31" />
+    <linearGradient
+       id="linearGradient4667">
+      <stop
+         id="stop4669"
+         stop-color="#fff"
+         offset="0" />
+      <stop
+         id="stop4671"
+         stop-color="#ffe8fa"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5281"
+       x1="1435.4"
+       xlink:href="#linearGradient4667"
+       gradientUnits="userSpaceOnUse"
+       y1="643.89"
+       gradientTransform="matrix(0.1344595,0,0,0.09415285,-334.96825,-37.09941)"
+       x2="1453"
+       y2="663.77" />
+    <linearGradient
+       id="linearGradient5283"
+       x1="1502.6"
+       xlink:href="#linearGradient4667"
+       gradientUnits="userSpaceOnUse"
+       y1="683.28"
+       gradientTransform="matrix(0.1344595,0,0,0.09415285,-334.96825,-37.09941)"
+       x2="1524.2"
+       y2="704.68" />
+  </defs>
+  <path
+     id="path4204"
+     d="m 5.2680692,10.44872 c -1.4266153,0 -2.5836393,0.849024 -2.5836393,1.897557 0,1.047639 1.1569568,1.897557 2.5836393,1.897557 1.4266825,0 2.5836393,-0.849909 2.5836393,-1.897557 0,-1.048486 -1.1569702,-1.897557 -2.5836393,-1.897557 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000" />
+  <path
+     id="path4549"
+     d="m 6.3706371,10.637026 c 0.079708,0.182723 0.1218472,0.377402 0.1218472,0.579624 0,1.047639 -1.1532726,1.897745 -2.5800089,1.897745 -0.4002456,0 -0.779502,-0.06892 -1.1176946,-0.188306 0.3335671,0.764418 1.3107785,1.31814 2.4622224,1.31814 1.4266153,0 2.5800089,-0.850163 2.5800089,-1.897745 0,-0.754814 -0.5982507,-1.403725 -1.4664153,-1.709439 z"
+     inkscape:connector-curvature="0"
+     style="opacity:0.22222003;fill:#8800ff" />
+  <path
+     id="path4642"
+     d="m 22.848527,32.970114 c 0,0.248763 -4.596478,0.450418 -10.26691,0.450418 -5.6701252,0 -10.2669103,-0.20166 -10.2669103,-0.450418 0,-0.248763 4.5964782,-0.450418 10.2669103,-0.450418 5.670125,0 10.26691,0.20166 10.26691,0.450418 z"
+     inkscape:connector-curvature="0"
+     style="opacity:0.66204002;fill:#c169ad" />
+  <path
+     id="path4202"
+     d="m 12.63645,18.102406 c -6.0544426,0 -10.9646346,3.392798 -10.9646346,7.579681 0,4.186883 4.910192,7.579681 10.9646346,7.579681 6.056997,0 10.964634,-3.392798 10.964634,-7.579681 0,-4.186883 -4.907637,-7.579681 -10.964634,-7.579681 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000" />
+  <path
+     id="path4650"
+     d="m 11.359085,19.493985 c -4.37222,0 -7.9159001,2.447786 -7.9159001,5.471316 0,1.652288 1.0598635,3.133878 2.7338305,4.137453 -1.0547137,-0.929769 -1.6861221,-2.100833 -1.6861221,-3.374156 0,-3.02353 3.5470416,-5.473764 7.9193957,-5.473764 1.983278,0 3.792968,0.506279 5.182069,1.338759 -1.449339,-1.277654 -3.70167,-2.099608 -6.233273,-2.099608 z"
+     style="opacity:0.61110995;fill:url(#linearGradient5279)"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path4206"
+     d="m 11.816247,11.306453 c -3.4456593,0 -6.2385176,1.9355 -6.2385176,4.324534 0,2.388187 2.7928583,4.324535 6.2385176,4.324535 3.445659,0 6.238517,-1.936348 6.238517,-4.324535 0,-2.389128 -2.792858,-4.324534 -6.238517,-4.324534 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000" />
+  <path
+     id="21"
+     d="m 26.5799,4.1781406 c -0.146373,0.00104 -0.287649,0.067387 -0.344553,0.1618299 L 18.972518,15.954666 20.548248,16.519583 28.18501,4.816384 C 28.272759,4.6796081 28.154636,4.4979496 27.949706,4.4544792 L 26.689148,4.1896744 c -0.03534,-0.00764 -0.07227,-0.011615 -0.109248,-0.011769 z"
+     inkscape:connector-curvature="0"
+     style="fill-rule:evenodd" />
+  <path
+     id="23"
+     d="M 8.4144215,1.4147545 C 14.864444,1.0264681 20.225613,0.1978289 24.135426,4.6747969 24.662776,4.5373055 25.07792,4.1467124 25.73536,4.1337287 L 25.474845,5.051719 c -0.03378,0.1200543 0.06876,0.251906 0.231109,0.2971652 l 1.823539,0.4972401 c 0.167147,0.046016 0.377105,-0.00564 0.466413,-0.1147535 L 30.048162,3.0589363 C 30.333996,2.2442128 27.84706,1.6535167 27.613638,1.9800388 c -0.0069,-0.00259 -0.251829,0.2820254 -0.2587,0.2794456 C 20.865519,-0.19234993 15.261919,-0.89086992 8.4136282,1.4148016 Z"
+     inkscape:connector-curvature="0"
+     style="fill-rule:evenodd" />
+  <path
+     id="path4547"
+     d="m 19.907574,20.77275 c 1.095044,1.123966 1.735871,2.47658 1.735871,3.933969 0,3.895685 -4.568313,7.05488 -10.204046,7.05488 -2.8166774,0 -5.3668756,-0.790745 -7.2132171,-2.066941 1.8325796,1.880518 4.9383817,3.118195 8.4642961,3.118195 5.635733,0 10.204046,-3.159194 10.204046,-7.05488 0,-1.947799 -1.140896,-3.709088 -2.98695,-4.985223 z"
+     inkscape:connector-curvature="0"
+     style="opacity:0.22222003;fill:#8800ff" />
+  <path
+     id="path4551"
+     d="m 15.876924,12.352491 c 0.524029,0.633103 0.823564,1.365405 0.823564,2.147815 0,2.388187 -2.7899,4.325194 -6.235559,4.325194 -1.5554276,0 -2.9790848,-0.39483 -4.0715682,-1.047451 1.0754339,1.301098 3.0978124,2.177285 5.4161632,2.177285 3.445659,0 6.235559,-1.936913 6.235559,-4.325194 0,-1.310984 -0.83982,-2.484788 -2.168159,-3.277649 z"
+     inkscape:connector-curvature="0"
+     style="opacity:0.22222003;fill:#8800ff" />
+  <path
+     id="path4220"
+     d="m 18.714019,15.921826 c -1.426615,0 -2.583639,0.849023 -2.583639,1.897556 0,1.047639 1.156957,1.897557 2.583639,1.897557 1.426683,0 2.583639,-0.849909 2.583639,-1.897557 0,-1.048486 -1.15697,-1.897556 -2.583639,-1.897556 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000" />
+  <path
+     id="path4555"
+     d="m 19.830033,16.10919 c 0.08041,0.183447 0.126042,0.376479 0.126042,0.579624 0,1.047638 -1.157467,1.897744 -2.584177,1.897744 -0.39995,0 -0.775481,-0.06909 -1.113499,-0.188305 0.33358,0.764417 1.306583,1.31814 2.458054,1.31814 1.426615,0 2.584177,-0.850163 2.584177,-1.897745 0,-0.754814 -0.602446,-1.403725 -1.470584,-1.709439 z"
+     inkscape:connector-curvature="0"
+     style="opacity:0.22222003;fill:#8800ff" />
+  <path
+     id="path4675"
+     d="m 11.587666,11.925979 c -2.7773957,0 -5.0282478,1.55484 -5.0282478,3.475464 0,1.049522 0.6732388,1.990674 1.7365445,2.628182 -0.6699714,-0.590602 -1.071091,-1.334428 -1.071091,-2.143295 0,-1.920624 2.2531379,-3.477065 5.0305333,-3.477065 1.259845,0 2.40938,0.321598 3.291703,0.850436 -0.920644,-0.81156 -2.351293,-1.333675 -3.959429,-1.333675 z"
+     style="opacity:0.61110995;fill:url(#linearGradient5281)"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path4679"
+     d="m 17.288749,18.618363 c -0.708535,-0.650681 0.244312,-1.575648 0.434021,-1.687407 0.226739,-0.133547 1.535797,-0.832763 2.720788,-0.216166 -0.745524,-0.991523 -2.423767,-0.675735 -3.217078,-0.06416 -0.793351,0.611579 -0.814461,1.439597 0.06239,1.9677 z"
+     style="opacity:0.61110995;fill:url(#linearGradient5283)"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path4198"
+     d="m 8.2261782,6.4707625 -1.4635917,0.897691 c 0.00134,0.017047 -2.68e-5,0.032874 0.00215,0.050082 C 6.8264548,7.9037896 7.4379363,8.2627285 8.132191,8.219437 8.825128,8.1762247 9.3376742,7.7471852 9.2759573,7.2619026 9.2238542,6.8522153 8.778995,6.534939 8.2261782,6.4707267 Z"
+     inkscape:connector-curvature="0"
+     style="fill-rule:evenodd" />
+  <path
+     id="path4212"
+     d="M 8.8850298,6.1148648 C 12.629727,4.8228052 16.49853,6.6113892 16.381012,9.3173798 l 2.87461,-4.5389206 C 18.992902,3.3656015 16.983794,2.2681559 15.096655,2.2190081 L 8.8850298,6.1148648 Z"
+     inkscape:connector-curvature="0"
+     style="fill-rule:evenodd" />
+  <path
+     id="path4200"
+     d="m 11.628004,5.5169942 c -2.6453567,0 -4.7891789,1.4817775 -4.7891789,3.3096609 0,1.8277889 2.1438222,3.3096609 4.7891789,3.3096609 2.645356,0 4.789178,-1.481777 4.789178,-3.3096609 0,-1.8277892 -2.143822,-3.3096609 -4.789178,-3.3096609 z"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000" />
+  <path
+     id="path4553"
+     d="m 14.559221,6.2118422 c 0.325432,0.44684 0.508431,0.9515087 0.508431,1.4858261 0,1.8277893 -2.140595,3.3100377 -4.785951,3.3100377 -1.1068572,0 -2.1262082,-0.261689 -2.9371334,-0.697315 0.787489,1.082005 2.4092453,1.82713 4.2817284,1.82713 2.645356,0 4.785951,-1.482248 4.785951,-3.3100373 0,-1.0637389 -0.724467,-2.0101634 -1.852986,-2.6156603 z"
+     inkscape:connector-curvature="0"
+     style="opacity:0.22222003;fill:#8800ff" />
+  <path
+     id="path4208"
+     d="M 7.7152321,7.8114991 0.01527437,8.7905004 8.009295,9.5934736 C 8.8605178,9.055343 8.6062683,8.1670579 7.7152993,7.8114426 Z"
+     inkscape:connector-curvature="0"
+     style="fill-rule:evenodd" />
+  <path
+     id="path4210"
+     d="M 9.5573269,6.5959862 C 9.349681,6.7531461 9.2211781,6.961657 9.2211781,7.193273 c 0,0.4871751 0.5636004,0.882683 1.2605579,0.882683 0.526328,0 0.975302,-0.2260798 1.163922,-0.5472635 L 9.5573672,6.5959956 Z"
+     inkscape:connector-curvature="0"
+     style="fill-rule:evenodd" />
+  <path
+     id="25"
+     d="M 17.154289,18.744528 8.645154,32.295006 c -0.2570866,0.409396 1.3092187,0.976836 1.577479,0.554485 l 8.529976,-13.430904 c -0.0069,-0.512681 -0.825205,-0.827895 -1.598186,-0.674822 z"
+     inkscape:connector-curvature="0"
+     style="fill-rule:evenodd" />
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2010-12-08T19:56:48</dc:date>
+        <dc:description>Christmas, Newyear, Xmas, clip art, clipart, humor, snow, snowman, Новый Год, Снеговик, </dc:description>
+        <dc:source>http://openclipart.org/detail/99907/snowman-emo-by-rones-by-rones</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>rones</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Christmas</rdf:li>
+            <rdf:li>Newyear</rdf:li>
+            <rdf:li>Xmas</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>humor</rdf:li>
+            <rdf:li>snow</rdf:li>
+            <rdf:li>snowman</rdf:li>
+            <rdf:li>Новый Год</rdf:li>
+            <rdf:li>Снеговик</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
